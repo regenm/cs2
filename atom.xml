@@ -3,11 +3,11 @@
   <title>Counter-Strike 2</title>
   
   <subtitle>Regen</subtitle>
-  <link href="https://regenm.github.io/cs2/atom.xml" rel="self"/>
+  <link href="https://regenm.github.io/atom.xml" rel="self"/>
   
-  <link href="https://regenm.github.io/cs2/"/>
+  <link href="https://regenm.github.io/"/>
   <updated>2025-09-22T07:45:54.593Z</updated>
-  <id>https://regenm.github.io/cs2/</id>
+  <id>https://regenm.github.io/</id>
   
   <author>
     <name>Regen</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>inferno进攻方道具笔记</title>
-    <link href="https://regenm.github.io/cs2/inferno%E8%BF%9B%E6%94%BB%E6%96%B9%E9%81%93%E5%85%B7%E7%AC%94%E8%AE%B0/"/>
-    <id>https://regenm.github.io/cs2/inferno%E8%BF%9B%E6%94%BB%E6%96%B9%E9%81%93%E5%85%B7%E7%AC%94%E8%AE%B0/</id>
+    <link href="https://regenm.github.io/inferno%E8%BF%9B%E6%94%BB%E6%96%B9%E9%81%93%E5%85%B7%E7%AC%94%E8%AE%B0/"/>
+    <id>https://regenm.github.io/inferno%E8%BF%9B%E6%94%BB%E6%96%B9%E9%81%93%E5%85%B7%E7%AC%94%E8%AE%B0/</id>
     <published>2025-09-14T02:41:25.000Z</published>
     <updated>2025-09-22T07:45:54.593Z</updated>
     
@@ -34,22 +34,22 @@
     
     
     
-    <category term="cs2" scheme="https://regenm.github.io/cs2/tags/cs2/"/>
+    <category term="cs2" scheme="https://regenm.github.io/tags/cs2/"/>
     
-    <category term="欧洲模式" scheme="https://regenm.github.io/cs2/tags/%E6%AC%A7%E6%B4%B2%E6%A8%A1%E5%BC%8F/"/>
+    <category term="欧洲模式" scheme="https://regenm.github.io/tags/%E6%AC%A7%E6%B4%B2%E6%A8%A1%E5%BC%8F/"/>
     
-    <category term="三大交换" scheme="https://regenm.github.io/cs2/tags/%E4%B8%89%E5%A4%A7%E4%BA%A4%E6%8D%A2/"/>
+    <category term="三大交换" scheme="https://regenm.github.io/tags/%E4%B8%89%E5%A4%A7%E4%BA%A4%E6%8D%A2/"/>
     
-    <category term="道具交换" scheme="https://regenm.github.io/cs2/tags/%E9%81%93%E5%85%B7%E4%BA%A4%E6%8D%A2/"/>
+    <category term="道具交换" scheme="https://regenm.github.io/tags/%E9%81%93%E5%85%B7%E4%BA%A4%E6%8D%A2/"/>
     
-    <category term="inferno" scheme="https://regenm.github.io/cs2/tags/inferno/"/>
+    <category term="inferno" scheme="https://regenm.github.io/tags/inferno/"/>
     
   </entry>
   
   <entry>
     <title>三大交换-人数交换</title>
-    <link href="https://regenm.github.io/cs2/%E4%B8%89%E5%A4%A7%E4%BA%A4%E6%8D%A2-%E4%BA%BA%E6%95%B0%E4%BA%A4%E6%8D%A2/"/>
-    <id>https://regenm.github.io/cs2/%E4%B8%89%E5%A4%A7%E4%BA%A4%E6%8D%A2-%E4%BA%BA%E6%95%B0%E4%BA%A4%E6%8D%A2/</id>
+    <link href="https://regenm.github.io/%E4%B8%89%E5%A4%A7%E4%BA%A4%E6%8D%A2-%E4%BA%BA%E6%95%B0%E4%BA%A4%E6%8D%A2/"/>
+    <id>https://regenm.github.io/%E4%B8%89%E5%A4%A7%E4%BA%A4%E6%8D%A2-%E4%BA%BA%E6%95%B0%E4%BA%A4%E6%8D%A2/</id>
     <published>2025-09-10T08:32:47.000Z</published>
     <updated>2025-09-14T02:40:27.879Z</updated>
     
@@ -64,20 +64,20 @@
     
     
     
-    <category term="cs2" scheme="https://regenm.github.io/cs2/tags/cs2/"/>
+    <category term="cs2" scheme="https://regenm.github.io/tags/cs2/"/>
     
-    <category term="欧洲模式" scheme="https://regenm.github.io/cs2/tags/%E6%AC%A7%E6%B4%B2%E6%A8%A1%E5%BC%8F/"/>
+    <category term="欧洲模式" scheme="https://regenm.github.io/tags/%E6%AC%A7%E6%B4%B2%E6%A8%A1%E5%BC%8F/"/>
     
-    <category term="三大交换" scheme="https://regenm.github.io/cs2/tags/%E4%B8%89%E5%A4%A7%E4%BA%A4%E6%8D%A2/"/>
+    <category term="三大交换" scheme="https://regenm.github.io/tags/%E4%B8%89%E5%A4%A7%E4%BA%A4%E6%8D%A2/"/>
     
-    <category term="人数交换" scheme="https://regenm.github.io/cs2/tags/%E4%BA%BA%E6%95%B0%E4%BA%A4%E6%8D%A2/"/>
+    <category term="人数交换" scheme="https://regenm.github.io/tags/%E4%BA%BA%E6%95%B0%E4%BA%A4%E6%8D%A2/"/>
     
   </entry>
   
   <entry>
     <title>欧洲模式-三大交换</title>
-    <link href="https://regenm.github.io/cs2/cs2%E6%88%98%E6%9C%AF%E7%90%86%E8%AE%BA%E6%8C%87%E5%8D%97/"/>
-    <id>https://regenm.github.io/cs2/cs2%E6%88%98%E6%9C%AF%E7%90%86%E8%AE%BA%E6%8C%87%E5%8D%97/</id>
+    <link href="https://regenm.github.io/cs2%E6%88%98%E6%9C%AF%E7%90%86%E8%AE%BA%E6%8C%87%E5%8D%97/"/>
+    <id>https://regenm.github.io/cs2%E6%88%98%E6%9C%AF%E7%90%86%E8%AE%BA%E6%8C%87%E5%8D%97/</id>
     <published>2025-09-10T03:34:31.000Z</published>
     <updated>2025-09-11T00:39:29.308Z</updated>
     
@@ -92,18 +92,18 @@
     
     
     
-    <category term="cs2" scheme="https://regenm.github.io/cs2/tags/cs2/"/>
+    <category term="cs2" scheme="https://regenm.github.io/tags/cs2/"/>
     
-    <category term="欧洲模式" scheme="https://regenm.github.io/cs2/tags/%E6%AC%A7%E6%B4%B2%E6%A8%A1%E5%BC%8F/"/>
+    <category term="欧洲模式" scheme="https://regenm.github.io/tags/%E6%AC%A7%E6%B4%B2%E6%A8%A1%E5%BC%8F/"/>
     
-    <category term="三大交换" scheme="https://regenm.github.io/cs2/tags/%E4%B8%89%E5%A4%A7%E4%BA%A4%E6%8D%A2/"/>
+    <category term="三大交换" scheme="https://regenm.github.io/tags/%E4%B8%89%E5%A4%A7%E4%BA%A4%E6%8D%A2/"/>
     
   </entry>
   
   <entry>
     <title>README</title>
-    <link href="https://regenm.github.io/cs2/README/"/>
-    <id>https://regenm.github.io/cs2/README/</id>
+    <link href="https://regenm.github.io/README/"/>
+    <id>https://regenm.github.io/README/</id>
     <published>2025-09-10T02:34:31.000Z</published>
     <updated>2025-09-10T02:38:37.587Z</updated>
     
@@ -119,9 +119,9 @@
     
     
     
-    <category term="readme" scheme="https://regenm.github.io/cs2/tags/readme/"/>
+    <category term="readme" scheme="https://regenm.github.io/tags/readme/"/>
     
-    <category term="test" scheme="https://regenm.github.io/cs2/tags/test/"/>
+    <category term="test" scheme="https://regenm.github.io/tags/test/"/>
     
   </entry>
   
